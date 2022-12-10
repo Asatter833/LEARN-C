@@ -91,6 +91,7 @@ int main()
     printf("You entered %c as a character\n\n", test_character);
 
     printf("Enter a string: ");
-    scanf("%s", string);                              // while taking strings you its not nessesary to use a ampersand(&)
-    printf("You entered %s as a string\n\n", string); // Detailed study of strings in the Strings-&-Arrays folder
+    scanf("%s", string); // while taking strings its not nessesary to use a ampersand(&)
+    printf("You entered %s as a string\n\n", string);
+    // Detailed study of strings in the Strings-&-Arrays folder
 }
