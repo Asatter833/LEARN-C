@@ -93,5 +93,5 @@ int main()
     printf("Enter a string: ");
     scanf("%s", string); // while taking strings its not nessesary to use a ampersand(&)
     printf("You entered %s as a string\n\n", string);
-    // Detailed study of strings in the Strings-&-Arrays folder
+    // Detailed study of strings in the Strings-&-Arrays folders
 }
